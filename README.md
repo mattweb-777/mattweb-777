@@ -2,7 +2,7 @@
 
 I run a corporate training company by day. I build the tools that run it.
 
-Not a software engineer — a commercial director and business owner who got fed up of swearing at
+Not a software engineer, a commercial director and business owner who got fed up of swearing at
 his computer and waiting for someone else to solve his problems. I use AI-assisted development to 
 ship real production software, integrations and websites for a real multi-million-pound business, 
 and paid consumer tools on the side.
@@ -56,7 +56,7 @@ and 70 employees. I've run every function in the business: L&D, sales, marketing
 IT, quality. I wrote my Masters thesis on why learning doesn't transfer and what it takes
 to fix that.
 
-The builder instinct runs through both — show people a better way, grounded in evidence
+The builder instinct runs through both; show people a better way, grounded in evidence
 and lived experience.
 
 ---
